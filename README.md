@@ -1,10 +1,21 @@
 # Eslint config for Arpinum projects
 
+## Installation
+
+Add the module to your project:
+
+    npm install --save-dev eslint-config-arpinum
+
+Create a `.eslintrc` file at the root with at least:
+
+```json
+{
+  "extends": "eslint-config-arpinum"
+}
+```
+
+Override any rule you want :)
+
 ## License
 
 [MIT](LICENSE)
-
-[glob module]: https://www.npmjs.com/package/glob
-[glob method]: https://github.com/isaacs/node-glob#globpattern-options-cb
-[glob repository]: https://github.com/isaacs/node-glob
-[child process]: https://nodejs.org/api/child_process.html#child_process_class_childprocess
