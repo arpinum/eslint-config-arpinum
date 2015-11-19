@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-arpinum",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Eslint config for Arpinum projects",
   "scripts": {
     "postversion": "git push && git push --tags && npm publish"
