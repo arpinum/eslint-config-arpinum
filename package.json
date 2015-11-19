@@ -8,7 +8,8 @@
   "repository": "arpinum/eslint-config-arpinum",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "lib"
   ],
   "author": {
     "name": "Arpinum",
