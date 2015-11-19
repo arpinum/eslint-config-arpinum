@@ -9,7 +9,7 @@
   "main": "index.js",
   "files": [
     "index.js",
-    "lib"
+    "configurations"
   ],
   "author": {
     "name": "Arpinum",

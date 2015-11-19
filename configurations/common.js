@@ -1,6 +1,8 @@
 'use strict';
 
 module.exports = {
+  'extends': 'eslint:recommended',
+
   'rules': {
     //
     // Possible errors (http://eslint.org/docs/rules/#possible-errors)
@@ -41,11 +43,6 @@ module.exports = {
     'no-useless-concat': 2,
     'yoda': 2,
     //
-    // Strict (http://eslint.org/docs/rules/#strict-mode)
-    'strict': [
-      2,
-      'global'
-    ],
     // Variables (http://eslint.org/docs/rules/#variables)
     'no-delete-var': 2,
     'no-shadow-restricted-names': 2,
@@ -92,9 +89,8 @@ module.exports = {
     // Relax
     'no-console': 0
   },
+
   'env': {
-    'node': true,
     'mocha': true
-  },
-  'extends': 'eslint:recommended'
+  }
 };

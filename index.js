@@ -1,3 +1,5 @@
 'use strict';
 
-module.exports = require('./lib/default');
+module.exports = {
+  'extends': 'arpinum/configurations/backend'
+}

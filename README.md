@@ -10,11 +10,19 @@ Create a `.eslintrc` file at the root with at least:
 
 ```json
 {
-  "extends": "eslint-config-arpinum"
+  "extends": "arpinum"
 }
 ```
 
-Override any rule you want :)
+## Major configurations
+
+* `arpinum`
+* `arpinum/configurations/backend`
+* `arpinum/configurations/frontend`
+
+## Minor configurations
+
+* `arpinum/configurations/angular`
 
 ## License
 
