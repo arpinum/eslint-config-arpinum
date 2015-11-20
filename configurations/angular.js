@@ -6,4 +6,4 @@ module.exports = {
     'inject': false,
     'module': false
   }
-}
+};

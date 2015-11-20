@@ -2,4 +2,4 @@
 
 module.exports = {
   'extends': 'arpinum/configurations/backend'
-}
+};

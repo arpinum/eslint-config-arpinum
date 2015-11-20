@@ -16,4 +16,4 @@ module.exports = {
     'sinon': false,
     'should': false
   }
-}
+};
