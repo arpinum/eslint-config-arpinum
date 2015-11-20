@@ -4,6 +4,6 @@ module.exports = {
   'globals': {
     'angular': false,
     'inject': false,
-    'module': false,
+    'module': false
   }
 }
