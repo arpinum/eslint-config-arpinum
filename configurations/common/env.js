@@ -2,6 +2,7 @@
 
 module.exports = {
   'env': {
-    'mocha': true
+    'mocha': true,
+    'es6': true
   }
 };

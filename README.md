@@ -16,13 +16,9 @@ Create a `.eslintrc` file at the root with at least:
 
 ## Major configurations
 
-* `arpinum`
+* `arpinum` (redirect to backend, see below)
 * `arpinum/configurations/backend`
 * `arpinum/configurations/frontend`
-
-## Minor configurations
-
-* `arpinum/configurations/angular`
 
 ## License
 

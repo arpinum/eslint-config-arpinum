@@ -1,6 +1,3 @@
 {
-  "extends": "arpinum/configurations/backend",
-  "env": {
-    "node": true
-  }
+  "extends": "arpinum"
 }
