@@ -5,7 +5,7 @@ module.exports = {
   'env': {
     'browser': true
   },
-  'ecmaFeatures': {
-    'modules': true
+  'parserOptions': {
+    'sourceType': 'module'
   }
 };
