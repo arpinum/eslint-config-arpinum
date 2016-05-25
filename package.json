@@ -4,7 +4,7 @@
   "description": "Eslint config for Arpinum projects",
   "scripts": {
     "test": "eslint .",
-    "postversion": "npm test && git push && git push --tags && npm publish"
+    "postversion": "git push && git push --tags && npm publish"
   },
   "repository": "arpinum/eslint-config-arpinum",
   "main": "index.js",
@@ -23,6 +23,6 @@
     "arpinum"
   ],
   "devDependencies": {
-    "eslint": "^2.0.0"
+    "eslint": "^2.10.2"
   }
 }
