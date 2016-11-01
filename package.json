@@ -23,6 +23,6 @@
     "arpinum"
   ],
   "devDependencies": {
-    "eslint": "^2.10.2"
+    "eslint": "3.9.1"
   }
 }

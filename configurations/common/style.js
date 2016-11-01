@@ -17,7 +17,6 @@ module.exports = {
       120,
       4
     ],
-    'new-cap': 2,
     'no-multiple-empty-lines': [
       2,
       {
