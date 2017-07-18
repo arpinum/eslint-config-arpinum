@@ -7,6 +7,7 @@ module.exports = {
     'arpinum/configurations/common/bestPractices',
     'arpinum/configurations/common/variables',
     'arpinum/configurations/common/style',
+    'arpinum/configurations/common/es2015',
     'arpinum/configurations/common/env',
     'arpinum/configurations/common/globals'
   ]

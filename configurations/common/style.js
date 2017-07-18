@@ -6,7 +6,11 @@ module.exports = {
     'indent': [
       2,
       2,
-      {'SwitchCase': 1}
+      {
+        'SwitchCase': 1,
+        'FunctionDeclaration': {'parameters': 'first'},
+        'FunctionExpression': {'parameters': 'first'}
+      }
     ],
     'linebreak-style': [
       2,
