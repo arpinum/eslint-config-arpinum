@@ -9,6 +9,7 @@ module.exports = {
     'arpinum/configurations/common/style',
     'arpinum/configurations/common/es2015',
     'arpinum/configurations/common/env',
+    'arpinum/configurations/common/parserOptions',
     'arpinum/configurations/common/globals'
   ]
 };
