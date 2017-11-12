@@ -4,7 +4,6 @@ module.exports = {
   'rules': {
     'block-scoped-var': 2,
     'consistent-return': 2,
-    'curly': 2,
     'default-case': 2,
     'dot-notation': 2,
     'dot-location': [
