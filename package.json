@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-arpinum",
-  "version": "4.1.1",
+  "version": "5.0.0",
   "description": "Eslint config for Arpinum projects",
   "scripts": {
     "test": "eslint .",
